@@ -1,0 +1,99 @@
+header{
+    color: white;
+    padding: 0%;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
+.IGUANA{
+    display: flex;
+    justify-content: left;
+    width: 4000px;
+
+}
+.texto{
+
+    display: flex;
+    width: 40%;
+    font-size: 20px;
+    font-weight: 300;
+    padding: 1%;
+    color: white
+
+}
+.imagen{
+    display: flex;
+    justify-content:left;
+    width: 40%;
+    max-width: 100%;
+    padding: 4%;
+
+}
+.CARACTERISTICAS{
+    background-color: #1e1a13; width: 2400px; 
+    width: 100%;
+    max-width: 90%;
+    height: 20%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 5%;
+    overflow: hidden;
+    color: white;
+    
+}
+.CARACTERISTICAS h2{
+    width: 100%;
+    text-align: center;
+font-weight: 500;
+font-size: 40px;
+}
+.icono1{
+    display: flex;
+    flex-direction: column;
+    font-size:xx-large
+    
+}
+.icono2{
+    display: flex;
+    flex-direction: column;
+    font-size:xx-large
+}
+.icono3{
+    display: flex;
+    flex-direction: column;
+    font-size:xx-large
+}
+
+
+.galeria{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    padding: 3%;
+    text-align: center;
+}
+
+.footer{
+    background-color: #1e1a13; width: 2400px;
+    color: white;
+    padding: 1%;
+    text-align: center;
+    font-size: larger;
+}
+
+body{
+    background-color: black;
+   
+}
+
+
+
+
+
+    
+
+
+    
+
